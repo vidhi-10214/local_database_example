@@ -1,0 +1,13 @@
+com.example.local_database_example.app-jetified-window-java-1.0.0-beta04-0 /Users/singsys/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.local_database_example.app-core-1.6.0-1 /Users/singsys/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.local_database_example.app-jetified-annotation-experimental-1.1.0-2 /Users/singsys/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.local_database_example.app-jetified-window-1.0.0-beta04-3 /Users/singsys/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.local_database_example.app-debug-4 /Users/singsys/Desktop/local_database_example/android/app/src/debug/res
+com.example.local_database_example.app-main-5 /Users/singsys/Desktop/local_database_example/android/app/src/main/res
+com.example.local_database_example.app-pngs-6 /Users/singsys/Desktop/local_database_example/build/app/generated/res/pngs/debug
+com.example.local_database_example.app-resValues-7 /Users/singsys/Desktop/local_database_example/build/app/generated/res/resValues/debug
+com.example.local_database_example.app-rs-8 /Users/singsys/Desktop/local_database_example/build/app/generated/res/rs/debug
+com.example.local_database_example.app-mergeDebugResources-9 /Users/singsys/Desktop/local_database_example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.local_database_example.app-mergeDebugResources-10 /Users/singsys/Desktop/local_database_example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.local_database_example.app-merged_res-11 /Users/singsys/Desktop/local_database_example/build/app/intermediates/merged_res/debug
+com.example.local_database_example.app-packaged_res-12 /Users/singsys/Desktop/local_database_example/build/sqflite/intermediates/packaged_res/debug
